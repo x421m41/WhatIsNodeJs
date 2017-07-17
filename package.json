@@ -1,7 +1,7 @@
 {
   "name": "practice",
   "version": "1.0.0",
-  "description": "JavaScriptで記述されたコードを実行する環境を提供するプログラムです。\r Google ChromeのJavaScriptエンジン V8 が使用されています。",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
